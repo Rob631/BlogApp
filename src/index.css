@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body {
+  margin: 0;
+  background-image: url(https://www.worldatlas.com/r/w1200/upload/1c/9c/36/shutterstock-empty-room.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 300%;
+}
+
+.PostPageCon{
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.Home{
+  font-family: 'Times New Roman', Times, serif;
+}
+.Card{
+  margin: 7px;
+  width: 1000px;
+  align-items: center;
+}
+
+.DeleteButton{
+  margin-top: 5px;
+  width: 150px;
+  columns: 0ch;
+  align-items: center;
+}
+
+.EditButton{
+  margin-top: 5px;
+  margin-right: 10px;
+  width: 150px;
+  columns: 0ch;
+  padding: 5px;
+}
+
+.PostPage{
+  align-items: center;
+  margin-left: 80px;
+}
+
+.Feed{
+  display: flex;
+  margin-top: 10rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.About{
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+  align-content: center;
+  justify-content: center;
+}
+.P{
+  align-content: center;
+}

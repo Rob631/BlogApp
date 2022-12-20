@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "What happened today!",
+      "datetime": "December 19, 2022 9:44:06 PM",
+      "body": "aasdfasd"
+    },
+    {
+      "id": 2,
+      "title": "Something Good",
+      "datetime": "December 19, 2022 9:44:16 PM",
+      "body": "asdfasdfasdf"
+    }
+  ]
+}
